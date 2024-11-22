@@ -16,6 +16,7 @@ body{
     align-items: center;
     height: 100vh;
      margin: 0;
+     margin-top: 300%;
      background-color: black;
 }
 
@@ -31,6 +32,4 @@ body{
     height: auto;
     margin-bottom: 10px;
     border-radius: 10px;
-
-    
 }
