@@ -103,3 +103,7 @@ footer a.btn-footer{
     margin: 0 10px;
     transition: .2s;
 }
+
+.container img {
+    pointer-events: none;
+}

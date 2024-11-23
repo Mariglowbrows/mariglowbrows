@@ -29,7 +29,7 @@ body{
 }
 
 .container img {
-    display: block;
+    pointer-events: none;
 }
 .img-catalogo {
     max-width: 100%;
