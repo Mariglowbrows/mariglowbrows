@@ -15,9 +15,9 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-     margin: 0;
-     margin-top: 100%;
-     background-color: black;
+    margin: 0;
+    background-color: black;
+    padding-top: 150%;
 }
 
 .container{
