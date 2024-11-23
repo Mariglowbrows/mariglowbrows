@@ -26,7 +26,7 @@ body{
     flex-wrap: wrap;
     margin: 0 20px;
     position: relative;
-    pointer-events: none;
+       pointer-events: none;
 }
 
 .container img {
@@ -38,8 +38,6 @@ body{
     margin-bottom: 10px;
     border-radius: 10px;
     display: block;
-    background-size: cover;
-    background-position: center;
 }
 .container .overlay {
     position: absolute;
@@ -48,26 +46,4 @@ body{
     width: 100%;
     height: 100%;
     background: transparent;
-}
-
-.img-catalogo[data-image="1"] {
-    background-image: url(fotos/capa catalogo.jpg);
-}
-.img-catalogo[data-image="2"] {
-    
-}
-.img-catalogo[data-image="3"] {
-    
-}
-.img-catalogo[data-image="4"] {
-    
-}
-.img-catalogo[data-image="5"] {
-    
-}
-.img-catalogo[data-image="6"] {
-    
-}
-.img-catalogo[data-image="7"] {
-    
 }
