@@ -16,7 +16,7 @@ html, body {
 /* Estilo das imagens */
 img {
     width: 100%; 
-    max-width: 300px; 
+    max-width: 400px; 
     height: auto;
     margin: 10px; 
     border-radius: 10px;
