@@ -15,10 +15,10 @@ html, body {
 
 /* Estilo das imagens */
 img {
-    width: 100%; 
-    max-width: 400px; 
+    width: 110%; 
+    max-width: 700px; 
     height: auto;
-    margin: 10px; 
+    margin: 5px; 
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: block; 
